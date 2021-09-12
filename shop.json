@@ -1,0 +1,85 @@
+[
+    {
+        
+        "Serialno":"1",
+        "Name"    :"Rice",
+        "Quantity":"10",
+        "Unit":"Kg",
+        "Department":"Grains",
+        "Notes":"Pavizham Rose Rice"
+    },
+    {
+    "Serialno":"2",
+        "Name"    :"Wheat",
+        "Quantity":"5",
+        "Unit":"Kg",
+        "Department":"Grains",
+        "Notes"     :"Ashirvad"
+    },
+    {
+    "Serialno":"3",
+        "Name"    :"Chicken",
+        "Quantity":"1",
+        "Unit":"Kg",
+        "Department":"Meats",
+        "Notes":"Fresh"
+    },
+    {
+    "Serialno":"4",
+        "Name"    :"Tomato",
+        "Quantity":"1",
+        "Unit":"Kg",
+        "Department":"Vegetables",
+        "Notes"     :"Fresh"
+    },
+    {
+    "Serialno":"5",
+        "Name"    :"Carrot",
+        "Quantity":"1/2",
+        "Unit":"Kg",
+        "Department":"Vegetables",
+        "Notes":"Fresh"
+    },
+    {
+    "Serialno":"6",
+        "Name"    :"Apples",
+        "Quantity":"1",
+        "Unit":"Kg",
+        "Department":"Fruits",
+        "Notes"     :"Fresh"
+    },
+    {
+        "Serialno":"7",
+        "Name"    :"Milk",
+        "Quantity":"1",
+        "Unit":"litre",
+        "Department":"Diary",
+        "Notes":"Milma"
+    },
+    {
+    "Serialno":"8",
+        "Name"    :"Coconut oil",
+        "Quantity":"1",
+        "Unit":"litre",
+        "Department":"Oils",
+        "Notes"     :"Sunflower"
+    },
+    {
+        "Serialno":"9",
+        "Name"    :"Almonds",
+        "Quantity":"1/2",
+        "Unit":"Kg",
+        "Department":"Nuts",
+        "Notes":"-"
+    },
+    {
+    "Serialno":"10",
+        "Name"    :"Eggs",
+        "Quantity":"10",
+        "Unit":"number",
+        "Department":"eggs",
+        "Notes"     :"-"
+    }
+    
+
+]
